@@ -14,7 +14,6 @@ I am a Software Engineering student focused on building efficient, scalable appl
 <p align="left">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain.svg" width="45" height="45" alt="kotlin"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="python"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="cplusplus"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="45" height="45" alt="azuresqldatabase"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="postgresql"/>          
 </p>
@@ -32,3 +31,4 @@ I am a Software Engineering student focused on building efficient, scalable appl
 ### 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravion223&layout=compact&theme=tokyonight&hide=html,css)
+![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ravion223&theme=tokyonight)
