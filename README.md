@@ -31,4 +31,3 @@ I am a Software Engineering student focused on building efficient, scalable appl
 ### 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravion223&layout=compact&theme=tokyonight&hide=html,css)
-![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ravion223&theme=tokyonight)
